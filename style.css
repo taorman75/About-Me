@@ -5,4 +5,10 @@ footer {
     width: 100%;
     height: 51px;
     padding-top: 12px;
+    margin-top: 10px;
+}
+
+.card-body {
+    background-color:#008cba;
+    color: white;
 }
