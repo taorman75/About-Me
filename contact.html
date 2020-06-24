@@ -32,7 +32,20 @@
   </div>
   <div class="row">
     <div class="col-md-9">
-      <form>
+      <!-- <form action="https://formspree.io/xaypdybw"
+            method="POST"
+>
+        <label>
+          Your email:
+          <input type="text" name="_replyto">
+        </label>
+        <label>
+          Your message:
+          <textarea name="message"></textarea>
+        </label>
+        <button type="submit">Send</button>
+      </form> -->
+      <form method="POST" action="https://formspree.io/xaypdybw">
         <div class="form-group">
           <label for="exampleFormControlInput1">Name</label>
           <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Jane Doe">
@@ -45,6 +58,7 @@
           <label for="exampleFormControlTextarea1">Message</label>
           <textarea class="form-control" id="exampleFormControlTextarea1" placeholder="Your message here" rows="3"></textarea>
         </div>
+        <button class="btn btn-primary" type="submit">Submit Form</button>
       </form>
     </div>    
   </div>
