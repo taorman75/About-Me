@@ -1,6 +1,15 @@
+#head-name, #contact-name, #port-name {
+    font-family: 'Rock Salt', cursive;
+}
+
 h1 {
-    font-weight: 500;
+    color: darkcyan;
+    font-family: 'Rock Salt', cursive;
     padding: 20px 0px;
+}
+
+#about-me {
+    background-color: darkcyan;
 }
 
 .card-body {
@@ -10,6 +19,10 @@ h1 {
 
 .card {
     margin-top: 10px;
+}
+
+#submit-button {
+    background-color: darkcyan;
 }
 
 footer {
