@@ -21,6 +21,15 @@ h1 {
     margin-top: 10px;
 }
 
+#project-card {
+    padding: 10px;
+    background-color: darkcyan;
+}
+
+#apple-catch, #weather-dash {
+    background-color: darkcyan;
+}
+
 #submit-button {
     background-color: darkcyan;
 }
