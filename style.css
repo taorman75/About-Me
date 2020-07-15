@@ -25,6 +25,13 @@ h1 {
     background-color: darkcyan;
 }
 
+#resume-button {
+    background-color: darkcyan;
+    color: white;
+    margin: 20px;
+
+}
+
 footer {
     background-color: #008cba;
     text-align: center;
