@@ -20,6 +20,8 @@ Website includes:
 * working links
 * a contact-me form 
 
+Updated: 16 July 2020
+
 ## Author
 
 * **Tana Orman** - *HTML/CSS (except reset.css)*
