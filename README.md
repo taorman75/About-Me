@@ -1,5 +1,5 @@
-# Responsive-Bootstrap-Based-Site
-A responsive site built with Bootstrap elements. This is an autobiographical site with three pages: Home, Portfolio, and Contact. As my skills progress, more content can be created for this site. Site at: https://taorman75.github.io/Responsive-Bootstrap-Based-Site/
+# Responsive-Bootstrap-Based-Site (https://taorman75.github.io/Responsive-Bootstrap-Based-Site/)
+A responsive site built with Bootstrap elements. This is an autobiographical site with three pages: Home, Portfolio, and Contact. As my skills progress, more content will be created for this site. 
 
 ## Contents
 
@@ -21,6 +21,8 @@ Website includes:
 * a contact-me form 
 
 ![home page screen shot](https://github.com/taorman75/Responsive-Bootstrap-Based-Site/blob/master/Assets/HomePort.jpg)
+
+![portfolio page screen shot](https://github.com/taorman75/Responsive-Bootstrap-Based-Site/blob/master/Assets/Portfolio.jpg)
 
 Updated: 10 Aug 2020
 
