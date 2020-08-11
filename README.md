@@ -20,7 +20,9 @@ Website includes:
 * working links
 * a contact-me form 
 
-Updated: 16 July 2020
+![home page screen shot](https://github.com/taorman75/Responsive-Bootstrap-Based-Site/blob/master/Assets/HomePort.jpg)
+
+Updated: 10 Aug 2020
 
 ## Author
 
