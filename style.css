@@ -17,6 +17,7 @@ h1 {
 .card-body {
     background-color:#008cba;
     color: white;
+    padding: 10px;
 }
 
 .card {
@@ -47,6 +48,10 @@ h1 {
     color: white;
     margin: 20px;
 
+}
+
+#altcontact {
+    padding: 10px 0px;
 }
 
 footer {
