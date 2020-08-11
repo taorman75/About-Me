@@ -2,6 +2,8 @@
     font-family: 'Rock Salt', cursive;
 }
 
+
+
 h1 {
     color: darkcyan;
     font-family: 'Rock Salt', cursive;
@@ -26,13 +28,19 @@ h1 {
     background-color: darkcyan;
 }
 
-#apple-catch, #weather-dash {
+#project2-card {
+    padding: 10px;
+}
+
+#apple-catch, #weather-dash, #EMS {
     background-color: darkcyan;
 }
 
 #submit-button {
     background-color: darkcyan;
 }
+
+
 
 #resume-button {
     background-color: darkcyan;
