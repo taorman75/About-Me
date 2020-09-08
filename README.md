@@ -24,7 +24,7 @@ Website includes:
 
 ![portfolio page screen shot](https://github.com/taorman75/Responsive-Bootstrap-Based-Site/blob/master/Assets/Portfolio.jpg)
 
-Updated: 10 Aug 2020
+Updated: 7 Sept 2020
 
 ## Author
 
